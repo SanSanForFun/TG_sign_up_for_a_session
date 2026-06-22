@@ -1,0 +1,5 @@
+aiogram>=3.13
+asyncpg
+python-dotenv
+google-api-python-client
+google-auth-oauthlib
